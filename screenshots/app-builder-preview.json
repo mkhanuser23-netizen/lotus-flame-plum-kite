@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Baytna",
+      "hasCanvas": false,
+      "bodyTextLen": 1493,
+      "bodyTextHash": "53168bf6c774b7163ce7cc62878183d51107db5a2e2bac9896002b77d43aa5f2",
+      "bodyTextPrefix": "Baytna The Al Mansoori household · Abu Dhabi Household عربي Toda",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Baytna",
+      "hasCanvas": false,
+      "bodyTextLen": 1486,
+      "bodyTextHash": "0b6b32384b3ec258e22756c181ff71881a92b098bfcaf88ca0bf230197f1ea18",
+      "bodyTextPrefix": "Baytna The Al Mansoori household · Abu Dhabi Household عربي Good",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
